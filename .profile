@@ -1,0 +1,1 @@
+export GREENLIGHT_DB_DSN='host=localhost port=5432 user=postgres password=admin dbname=greenlight sslmode=disable'
